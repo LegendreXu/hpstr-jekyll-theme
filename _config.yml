@@ -1,5 +1,5 @@
-title:            Deus ex machina
-description:      No more Kitsch
+title:           
+description:      
 disqus_shortname:
 reading_time:     true
 words_per_minute: 200
@@ -9,10 +9,10 @@ url:
 
 # Owner/author information
 owner:
-  name:           XU Guosong
+  name:           
   avatar:         avatar.jpg
-  bio:            "Deep Learning/Optimiztion/Derivative Pricing/Algo Trading/Frankfurt School/Chinese Culture/ACG/TRPG/Arsenal."
-  email:          xuguosong1998@gmail.com
+  bio:            "“
+  email:         
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
